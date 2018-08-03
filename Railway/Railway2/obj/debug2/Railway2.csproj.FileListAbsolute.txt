@@ -1,0 +1,12 @@
+E:\C#\Railway2\Railway2\bin\debug2\Railway2.exe.config
+E:\C#\Railway2\Railway2\bin\debug2\Railway2.exe
+E:\C#\Railway2\Railway2\bin\debug2\Railway2.pdb
+E:\C#\Railway2\Railway2\bin\debug2\Bunifu_UI_v1.52.dll
+E:\C#\Railway2\Railway2\obj\debug2\Railway2.csprojResolveAssemblyReference.cache
+E:\C#\Railway2\Railway2\obj\debug2\Railway2.Createschedule.resources
+E:\C#\Railway2\Railway2\obj\debug2\Railway2.Form1.resources
+E:\C#\Railway2\Railway2\obj\debug2\Railway2.Login.resources
+E:\C#\Railway2\Railway2\obj\debug2\Railway2.Properties.Resources.resources
+E:\C#\Railway2\Railway2\obj\debug2\Railway2.csproj.GenerateResource.Cache
+E:\C#\Railway2\Railway2\obj\debug2\Railway2.exe
+E:\C#\Railway2\Railway2\obj\debug2\Railway2.pdb
